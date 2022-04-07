@@ -1,0 +1,12 @@
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\bin\Debug\TP03_181828.exe.config
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\bin\Debug\TP03_181828.exe
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\bin\Debug\TP03_181828.pdb
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\obj\Debug\TP03_181828.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\obj\Debug\TP03_181828.Form1.resources
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\obj\Debug\TP03_181828.Properties.Resources.resources
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\obj\Debug\TP03_181828.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\obj\Debug\TP03_181828.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\obj\Debug\TP03_181828.exe
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\obj\Debug\TP03_181828.pdb
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Usuário\source\repos\TP03_181828\TP03_181828\obj\Debug\TP03_181828.csproj.CopyComplete
